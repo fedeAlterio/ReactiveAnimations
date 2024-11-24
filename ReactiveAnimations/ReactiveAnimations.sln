@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveAnimations", "ReactiveAnimations\ReactiveAnimations.csproj", "{8A3A45C3-B861-4977-AB33-16FEAD63A988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveAnimations.Demo", "ReactiveAnimations.Demo\ReactiveAnimations.Demo.csproj", "{A33EC98F-9524-4C90-9B04-35DD5AF364FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A3A45C3-B861-4977-AB33-16FEAD63A988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3A45C3-B861-4977-AB33-16FEAD63A988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3A45C3-B861-4977-AB33-16FEAD63A988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3A45C3-B861-4977-AB33-16FEAD63A988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A33EC98F-9524-4C90-9B04-35DD5AF364FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A33EC98F-9524-4C90-9B04-35DD5AF364FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A33EC98F-9524-4C90-9B04-35DD5AF364FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A33EC98F-9524-4C90-9B04-35DD5AF364FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83C9E281-8669-4233-948F-C8FCEA6CF7CE}
+	EndGlobalSection
+EndGlobal
